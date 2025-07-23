@@ -1,5 +1,9 @@
 team: Tigers
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 75faa7d284e8e24648fcbc89c9a490d26ef6749b
 manager: Brenda
 
 coach: Ruth
@@ -10,4 +14,9 @@ members:
 - David
 - George
 - Tyler
+<<<<<<< HEAD
 - reset
+=======
+
+fetch this
+>>>>>>> 75faa7d284e8e24648fcbc89c9a490d26ef6749b
